@@ -56,9 +56,9 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Screenshot
 
-![Landing Page](/screenshots/1.png)
-![Student List Page](/screenshots/2.png)
-![Student Add Page](/screenshots/3.png)
-![Student Mark List Page](/screenshots/4.png)
-![Student Mark Edit Page](/screenshots/5.png)
+![Landing Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/1.png)
+![Student List Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/2.png)
+![Student Add Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/3.png)
+![Student Mark List Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/4.png)
+![Student Mark Edit Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/5.png)
 ![STudent Edit Page](/screenshots/6.png)

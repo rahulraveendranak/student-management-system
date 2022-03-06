@@ -61,4 +61,4 @@ Then go to `http://localhost:8000` from your browser and see the app.
 ![Student Add Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/3.png)
 ![Student Mark List Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/4.png)
 ![Student Mark Edit Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/5.png)
-![STudent Edit Page](/screenshots/6.png)
+![STudent Edit Page](https://github.com/rahulraveendranak/student-management-system/blob/main/screenshot/6.png)

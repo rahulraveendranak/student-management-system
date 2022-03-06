@@ -6,7 +6,7 @@ This is built on Laravel Framework 9.
 
 ## Installation
 
-Clone the repository-(If you installed WAMP to c:\wamp then clone project root directory would be c:\wamp\www)
+Clone the repository-(If you installed WAMP then the root directory would be c:\wamp\www)
 ```
 git clone https://github.com/rahulraveendranak/student-management-system.git
 ```
